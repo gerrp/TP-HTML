@@ -1,0 +1,100 @@
+*{box-sizing: border-box; /* ACOMODAR CAJAS*/
+
+}
+
+
+
+.clasePrueba{
+    border: 2px solid black;
+
+}
+
+
+.claseIzq{
+    padding-top: 10px;
+    border: solid black 3px;
+    
+    
+   
+    
+
+}
+
+.claseEspacio{
+    padding-top: 20px;
+
+}
+
+.clase3{
+    padding-top: 20px;
+
+}
+
+.clase4{
+    border:solid black 3px;
+    padding: 10px;
+    
+}
+
+.clase5{
+    border: solid black 3px;
+    width: fit-content;
+
+}
+
+
+
+#numeroTel{
+    display: none;
+}
+#direcMail{
+    display:none;
+}
+
+#direcPersonal{
+    display: none;
+}
+
+#edad{
+    display: none;
+}
+
+.claseEspacioMin{
+    padding-top: 3px;
+
+}
+
+#boton{
+    margin: 5px;
+}
+#botonDirec{
+    margin: 5px;
+}
+#botonMail{
+    margin: 5px;
+}
+#botonEdad{
+    margin: 5px;
+}
+
+body{
+        background-color:azure;
+        
+
+}
+
+
+.formulario{
+        padding-top: 15px;
+        
+
+}
+.formulario2{
+        border: solid black 3px;
+        padding: 10px;
+}
+
+p,li{
+    font-family:'Roboto', sans-serif;
+
+}
